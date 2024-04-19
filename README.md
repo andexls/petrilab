@@ -19,7 +19,7 @@ Recursos:
 
 ## Instalação
 
-Para utilizar o programa, baixe a versão mais recente em https://sourceforge.net/projects/petrilab/files/, extraia no local de preferência e execute o arquivo 'petrilab.pyw'.
+Para utilizar o programa, baixe todos os arquivos deste projeto, coloque no local de preferência e execute o arquivo 'petrilab.pyw'.
 
 ## Uso
 
