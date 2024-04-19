@@ -19,7 +19,7 @@ Recursos:
 
 ## Instalação
 
-Para utilizar o programa, baixe todos os arquivos deste projeto, coloque no local de preferência e execute o arquivo 'petrilab.pyw'.
+Para utilizar o programa, baixe todos os arquivos deste projeto, coloque no local de preferência e execute o arquivo 'petrilab.pyw'. É necessário ter o Python 2 instalado no sistema para que o programa funcione. Se tiver tanto o Python 2 quanto o Python 3, será necessário chamar o programa via linha de comando com "python2 petrilab.pyw".
 
 ## Uso
 
